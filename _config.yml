@@ -10,7 +10,7 @@ title:            Blog
 tagline:          'Mostly about AppSec and .NET'
 description:      
 url:              https://blog.fennec.dev
-baseurl:          "/"
+baseurl:          /
 
 author:
   name:           'Niels Tanis'
