@@ -3,6 +3,11 @@ layout: post
 title: Example content
 ---
 
+```csharp
+public class Test
+{
+}
+```
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
