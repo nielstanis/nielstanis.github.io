@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Niels Tanis
 tagline:          'Mostly about AppSec and .NET'
-description:      
+description:      Blog mostly about AppSec and .NET
 url:              https://blog.fennec.dev
 baseurl:          ""
 
