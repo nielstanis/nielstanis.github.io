@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Blog
+title:            Niels Tanis
 tagline:          'Mostly about AppSec and .NET'
 description:      
 url:              https://blog.fennec.dev
