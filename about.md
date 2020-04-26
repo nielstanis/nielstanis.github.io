@@ -16,4 +16,4 @@ There are currently two themes built on Poole:
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-<img height=10% width=10% src="/public/niels-zw.png"/>
+<img height=20% width=20% src="/public/niels-zw.png"/>
