@@ -3,9 +3,15 @@ layout: page
 title: Speaking
 ---
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I've given presentations about different topics at various conferences. Below you can find a list of speaking engagements below.
 
-There are currently two themes built on Poole:
+## Scheduled
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+- NDC Oslo 2020 - [Reducing Third-Party Security Risk in .NET Core Applications](https://ndcoslo.com/talk/reducing-third-party-security-risk-in-net-core-applications/)
+- [CodeCamp 2020 Iasi](https://codecamp.ro/iasi#speakers) 
+
+## Past
+
+- NDC London 2020 - [Reducing Third-Party Security Risk in .NET Core Applications](https://ndc-london.com/talk/reducing-third-party-security-risk-in-net-core-applications/) - [Video]() - [Slides]() - [GitHub]()
+- UpdateConference 2019 - [Reducing Third-Party Security Risk in .NET Core Applications](https://www.updateconference.net/en/2019/speaker/niels-tanis) - [Slides](https://github.com/nielstanis/updateconf2019/blob/master/Slides/UpdateConferenceFinal.pdf) - [GitHub](https://github.com/nielstanis/updateconf2019/)
+- Microsoft Build - [Reducing Third-Party Security Risk in .NET Core Applications]() - [Video]() - [Slides]() - [GitHub]()
