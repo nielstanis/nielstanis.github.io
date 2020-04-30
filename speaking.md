@@ -8,7 +8,8 @@ I've given presentations about different topics at various conferences. Below yo
 ## Scheduled
 
 - NDC Oslo 2020 - [Reducing Third-Party Security Risk in .NET Core Applications](https://ndcoslo.com/talk/reducing-third-party-security-risk-in-net-core-applications/)
-- [CodeCamp 2020 Iasi](https://codecamp.ro/iasi#speakers) 
+- [.NET Core Summer Event 2020](https://www.dncse.nl/speakers/niels-tanis/) - The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?
+- [CodeCamp 2020 Iasi](https://codecamp.ro/iasi#speakers)
 
 ## Past
 
