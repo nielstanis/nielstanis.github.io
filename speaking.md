@@ -14,6 +14,7 @@ I've given presentations about different topics at various conferences. Below yo
 ## Past
 
 - NDC London 2020 - [Reducing Third-Party Security Risk in .NET Core Applications](https://ndc-london.com/talk/reducing-third-party-security-risk-in-net-core-applications/) - [Video](https://www.youtube.com/watch?v=jA72XrgB_gw) - [Slides](https://github.com/nielstanis/ndclondon2020/blob/master/Slides/NDCSlides.pdf) - [GitHub](https://github.com/nielstanis/ndclondon2020/)
+- DotNetSaturday 2020 - [Reducing Third-Party Security Risk in .NET Core Applications](https://dotnedsaturday.nl/sessions/reducing-third-party-security-risk-in-net-core-applications/)
 - UpdateConference 2019 - [Reducing Third-Party Security Risk in .NET Core Applications](https://www.updateconference.net/en/2019/speaker/niels-tanis) - [Slides](https://github.com/nielstanis/updateconf2019/blob/master/Slides/UpdateConferenceFinal.pdf) - [GitHub](https://github.com/nielstanis/updateconf2019/)
 - Microsoft Build 2019 - [Reducing Third-Party Security Risk in .NET Core Applications](https://mybuild.techcommunity.microsoft.com/sessions/77171) - [Video](https://www.youtube.com/watch?v=2QogqhYnsl0) - [GitHub](https://github.com/nielstanis/msbuild2019)
 - Owasp BeNeLux Day 2018 - [Serverless Security And Functions-as-a-Service (FaaS)](https://wiki.owasp.org/index.php/OWASP_BeNeLux-Days_2018) - [Video](https://www.youtube.com/watch?v=wuvGmXN0n6Q)
