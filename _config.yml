@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -17,9 +17,6 @@ author:
   url:            https://twitter.com/nielstanis
 
 paginate:         5
-
-gems:
-  - jekyll-target-blank
 
 # Custom vars
 version:          2.1.0
