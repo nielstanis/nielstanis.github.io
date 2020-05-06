@@ -5,7 +5,7 @@ categories: [.NET5, CSharp]
 tags: [compiler, preview]
 ---
 
-A week ago Microsoft released a preview of a new compiler feature called [C# Source Generators](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/). This feature allows to inspect existing source-code and generate additional C# source files that will be added to the compiled output. One of the goals is to use this in order to remove the need for any (slower) dynamic runtime behavior that rely on reflection. There are also benefits from security perspective that can be added to that list, let's look into that a bit further! 
+A week ago Microsoft released a preview of a new compiler feature called [C# Source Generators](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/){:target="_blank"}. This feature allows to inspect existing source-code and generate additional C# source files that will be added to the compiled output. One of the goals is to use this in order to remove the need for any (slower) dynamic runtime behavior that rely on reflection. There are also benefits from security perspective that can be added to that list, let's look into that a bit further! 
 
 # Source Generator
 
