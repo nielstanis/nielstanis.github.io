@@ -9,7 +9,7 @@ A week ago Microsoft released a preview of a new compiler feature called [C# Sou
 
 # Source Generator
 
-When a Source Generator is added to project it will be executed when the application is build. It has the ability to inspect the programs source artifacts and create additional files that will be added to the output. The concept is also called _Compile Time Metaprogramming_ as explained in the [design document](https://github.com/dotnet/roslyn/blob/master/docs/features/source-generators.md). Source Generators have a strong relationship with existing Roslyn Analyzers that allow you to inspect both syntax and the semantic models of the compilation. 
+When a Source Generator is added to a .NET Core project it will be executed when the project is being build. It has the ability to inspect the programs source artifacts and create additional files that will be added to the output. The concept is also called _Compile Time Metaprogramming_ as explained in the [design document](https://github.com/dotnet/roslyn/blob/master/docs/features/source-generators.md). Source Generators have a strong relationship with existing Roslyn Analyzers that allow you to inspect both syntax and the semantic models of the compilation. 
 
 # Application Parts in ASP.NET Core MVC
 
