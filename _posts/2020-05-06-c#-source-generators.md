@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C# Source Generators
-categories: [.NET 5, C#]
+categories: [.NET5, CSharp]
 tags: [compiler, preview]
 ---
 
