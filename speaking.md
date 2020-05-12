@@ -3,7 +3,7 @@ layout: page
 title: Speaking
 ---
 
-I've given presentations about different topics at various conferences. Below you can find a list of speaking engagements below. A list of my current list of presentation abstracts can be found in [Sessionize](https://sessionize.com/niels-tanis/).
+I've given presentations about different topics at various conferences. Below you can find a list of speaking engagements below. A list of my current list of presentation abstracts can be found in [Sessionize](https://sessionize.com/nielstanis/).
 
 ## Scheduled
 
