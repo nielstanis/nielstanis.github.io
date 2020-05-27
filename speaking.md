@@ -9,7 +9,7 @@ I've given presentations about different topics at various conferences. Below yo
 
 - NDC Oslo 2020 - [Reducing Third-Party Security Risk in .NET Core Applications](https://ndcoslo.com/talk/reducing-third-party-security-risk-in-net-core-applications/)
 - Boston .NET Architecture Group [Reducing Third-Party Security Risk in .NET Core Applications](https://www.meetup.com/en-AU/Boston-NET-Architecture-Group/events/bbjgjrybcjbwb/)
-- [.NET Core Summer Event 2020](https://www.dncse.nl/speakers/niels-tanis/) - The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?
+- [.NET Core Summer Event 2020](https://www.dncse.nl/) - [The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?](https://www.dncse.nl/sessions/the-rise-of-software-supply-chain-attacks-how-secure-is-your-net-application/)
 - [.NET Summit 2020](https://dotnetsummit.by/#speakers/) - The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?
 - [CodeCamp 2020 Iasi](https://codecamp.ro/iasi#speakers)
 
