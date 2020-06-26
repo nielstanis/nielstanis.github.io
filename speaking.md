@@ -7,14 +7,15 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- NDC Oslo 2020 - [Reducing Third-Party Security Risk in .NET Core Applications](https://ndcoslo.com/talk/reducing-third-party-security-risk-in-net-core-applications/)
-- Boston .NET Architecture Group - [Reducing Third-Party Security Risk in .NET Core Applications](https://www.meetup.com/en-AU/Boston-NET-Architecture-Group/events/bbjgjrybcjbwb/)
+
 - [.NET Core Summer Event 2020](https://www.dncse.nl/) - [The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?](https://www.dncse.nl/sessions/the-rise-of-software-supply-chain-attacks-how-secure-is-your-net-application/)
 - [.NET Summit 2020](https://dotnetsummit.by/#speakers/) - The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?
 - [CodeCamp 2020 Iasi](https://codecamp.ro/iasi#speakers)
 
 ## Past
 
+- NDC Oslo 2020 - [Reducing Third-Party Security Risk in .NET Core Applications](https://ndcoslo.com/talk/reducing-third-party-security-risk-in-net-core-applications/)
+- Boston .NET Architecture Group - [Reducing Third-Party Security Risk in .NET Core Applications](https://www.meetup.com/en-AU/Boston-NET-Architecture-Group/events/bbjgjrybcjbwb/)
 - NDC London 2020 - [Reducing Third-Party Security Risk in .NET Core Applications](https://ndc-london.com/talk/reducing-third-party-security-risk-in-net-core-applications/) - [Video](https://www.youtube.com/watch?v=jA72XrgB_gw) - [Slides](https://github.com/nielstanis/ndclondon2020/blob/master/Slides/NDCSlides.pdf) - [GitHub](https://github.com/nielstanis/ndclondon2020/)
 - DotNetSaturday 2020 - [Reducing Third-Party Security Risk in .NET Core Applications](https://dotnedsaturday.nl/sessions/reducing-third-party-security-risk-in-net-core-applications/)
 - UpdateConference 2019 - [Reducing Third-Party Security Risk in .NET Core Applications](https://www.updateconference.net/en/2019/speaker/niels-tanis) - [Video](https://www.youtube.com/watch?v=OSrWTxnoMuI)- [Slides](https://github.com/nielstanis/updateconf2019/blob/master/Slides/UpdateConferenceFinal.pdf) - [GitHub](https://github.com/nielstanis/updateconf2019/)
