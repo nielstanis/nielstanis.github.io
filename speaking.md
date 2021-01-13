@@ -8,7 +8,6 @@ I've given presentations about different topics at various conferences. Below yo
 ## Scheduled
 
 - NDC London 2021 - [The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?](https://ndc-london.com/agenda/the-rise-of-software-supply-chain-attacks-how-secure-is-your-net-application-05do/00ql86xtiwj)
-- Virtual Scotisch Summit 2021 - [The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?](https://scottishsummit.com/scottish-summit-2021-speakers#)
 
 ## Past
 
