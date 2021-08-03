@@ -7,7 +7,7 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- None scheduled
+- UpdateConference 2021 Prague - Sandboxing .NET assemblies for fun, profit and of course security!
 
 ## Past
 - SDN Cast - June 2021 (Dutch) - [Video](https://www.youtube.com/watch?v=_3ufFpvvUts&list=PLC5P51a_60YH91NE65bmUXgVxPsfCaxtC&index=3)
