@@ -7,7 +7,10 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- UpdateConference 2021 Prague - Sandboxing .NET assemblies for fun, profit and of course security!
+- UpdateConference 2021 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://www.updateconference.net/en/2021/session/sandboxing--net-assemblies-for-fun--profit-and-of-course-security-)
+- NDC Oslo 2021 - [Securing your .NET application software supply-chain](https://ndcoslo.com/agenda/securing-your-net-application-software-supply-chain-0r3p/0kkmn6y5kis)
+- NDC London 2022 - [Securing your .NET application software supply-chain](https://ndclondon.com/agenda/securing-your-net-application-software-supply-chain-0ei3/068cz2it38a)
+
 
 ## Past
 - SDN Cast - June 2021 (Dutch) - [Video](https://www.youtube.com/watch?v=_3ufFpvvUts&list=PLC5P51a_60YH91NE65bmUXgVxPsfCaxtC&index=3)
