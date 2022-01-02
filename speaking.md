@@ -7,12 +7,13 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- UpdateConference 2021 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://www.updateconference.net/en/2021/session/sandboxing--net-assemblies-for-fun--profit-and-of-course-security-)
-- NDC Oslo 2021 - [Securing your .NET application software supply-chain](https://ndcoslo.com/agenda/securing-your-net-application-software-supply-chain-0r3p/0kkmn6y5kis)
 - NDC London 2022 - [Securing your .NET application software supply-chain](https://ndclondon.com/agenda/securing-your-net-application-software-supply-chain-0ei3/068cz2it38a)
 
-
 ## Past
+- Boston .NET Architecture Group - December 2021 - [Securing your .NET application software supply-chain](https://youtu.be/tQ5I0xhEPbU)
+- Veracode Devs Twitch with Rey Bango - [Sandboxing .NET assemblies for fun, profit and of course security!](https://www.twitch.tv/videos/1232606941)
+- NDC Oslo 2021 - [Securing your .NET application software supply-chain](https://ndcoslo.com/agenda/securing-your-net-application-software-supply-chain-0r3p/0kkmn6y5kis)
+- UpdateConference 2021 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://www.updateconference.net/en/2021/session/sandboxing--net-assemblies-for-fun--profit-and-of-course-security-)
 - SDN Cast - June 2021 (Dutch) - [Video](https://www.youtube.com/watch?v=_3ufFpvvUts&list=PLC5P51a_60YH91NE65bmUXgVxPsfCaxtC&index=3)
 - DotNetFlix - May 2021 - [How to secure your software supply chain]() - [Video](https://www.youtube.com/watch?v=J95hRshfF5w)
 - Techorama 2021 - [The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?](https://www.techorama.nl/agenda/session/the-rise-of-software-supplychain-attacks-how-secure-is-your-net-application/)
