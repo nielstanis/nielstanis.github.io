@@ -7,6 +7,8 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
+- NDC Security 2022 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndc-security.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0i0c/0xcpe4sdeb0)
+- NDC Porto 2022 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndcporto.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0hlu/0iujiv7s3s8)
 - NDC London 2022 - [Securing your .NET application software supply-chain](https://ndclondon.com/agenda/securing-your-net-application-software-supply-chain-0ei3/068cz2it38a)
 
 ## Past
