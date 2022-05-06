@@ -7,14 +7,16 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- NDC Security 2022 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndc-security.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0i0c/0xcpe4sdeb0)
-- NDC Porto 2022 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndcporto.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0hlu/0iujiv7s3s8)
 - NDC London 2022 - [Securing your .NET application software supply-chain](https://ndclondon.com/agenda/securing-your-net-application-software-supply-chain-0ei3/068cz2it38a)
+- WeAreDevelopers World Congress 2022 - Securing your application software supply-chain
+- FutureTech 2022 - [Securing your .NET application software supply-chain](https://futuretech.nl/speakers/)
 
 ## Past
+- NDC Porto 2022 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndcporto.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0hlu/0iujiv7s3s8)
+- NDC Security 2022 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndc-security.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0i0c/0xcpe4sdeb0)
 - Boston .NET Architecture Group - December 2021 - [Securing your .NET application software supply-chain](https://youtu.be/tQ5I0xhEPbU)
 - Veracode Devs Twitch with Rey Bango - [Sandboxing .NET assemblies for fun, profit and of course security!](https://www.twitch.tv/videos/1232606941)
-- NDC Oslo 2021 - [Securing your .NET application software supply-chain](https://ndcoslo.com/agenda/securing-your-net-application-software-supply-chain-0r3p/0kkmn6y5kis)
+- NDC Oslo 2021 - [Securing your .NET application software supply-chain](https://ndcoslo.com/agenda/securing-your-net-application-software-supply-chain-0r3p/0kkmn6y5kis) - [Video](https://www.youtube.com/watch?v=AFa-P9tvag4)
 - UpdateConference 2021 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://www.updateconference.net/en/2021/session/sandboxing--net-assemblies-for-fun--profit-and-of-course-security-)
 - SDN Cast - June 2021 (Dutch) - [Video](https://www.youtube.com/watch?v=_3ufFpvvUts&list=PLC5P51a_60YH91NE65bmUXgVxPsfCaxtC&index=3)
 - DotNetFlix - May 2021 - [How to secure your software supply chain]() - [Video](https://www.youtube.com/watch?v=J95hRshfF5w)
