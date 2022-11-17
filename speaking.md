@@ -17,9 +17,9 @@ I've given presentations about different topics at various conferences. Below yo
 - NDC Sydney 2022 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndcsydney.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-08rl/0iqp154v9q3)
 - NDC Sydney 2022 - [Securing your .NET application software supply-chain](https://ndcsydney.com/agenda/securing-your-net-application-software-supply-chain-0v8x/0smzhm3kpdd)
 - DevNetNoord - [Securing your .NET application software supply-chain](https://devnetnoord.nl/#supplychain)
-- NDC London 2022 - [Securing your .NET application software supply-chain](https://ndclondon.com/agenda/securing-your-net-application-software-supply-chain-0ei3/068cz2it38a)
+- NDC London 2022 - [Securing your .NET application software supply-chain](https://ndclondon.com/agenda/securing-your-net-application-software-supply-chain-0ei3/068cz2it38a) - [Video](https://www.youtube.com/watch?v=n9_dqtDy-2U)
 - WeAreDevelopers World Congress 2022 - Securing your application software supply-chain
-- FutureTech 2022 - [Securing your .NET application software supply-chain](https://futuretech.nl/speakers/)
+- FutureTech 2022 - [Securing your .NET application software supply-chain](https://futuretech.nl/speakers/) - [Video](https://www.youtube.com/watch?v=Fr5I0I5Komc)
 - NDC Porto 2022 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndcporto.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0hlu/0iujiv7s3s8)
 - NDC Security 2022 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndc-security.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0i0c/0xcpe4sdeb0)
 - Boston .NET Architecture Group - December 2021 - [Securing your .NET application software supply-chain](https://youtu.be/tQ5I0xhEPbU)
