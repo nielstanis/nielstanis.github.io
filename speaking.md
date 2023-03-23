@@ -7,11 +7,13 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- FutureTech 2023 - Using WebAssembly to run, extend, and secure your .NET application
+- DevNetNoord 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://devnetnoord.nl/#sandboxingdotnet)
+- DotNetSaturday 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://dotnedsaturday.nl/sessions/sandboxing-net-assemblies-for-fun-profit-and-of-course-security/)
 - Code Europe 2023 - Crawaw & Warsaw - Securing your .NET application software supply-chain
 
 ## Past
 
+- FutureTech 2023 - Using WebAssembly to run, extend, and secure your .NET application - [Slides](https://github.com/nielstanis/FutureTech2023/blob/main/Slides/FutureTech2023-WASM.pdf) - [GitHub](https://github.com/nielstanis/FutureTech2023)
 - NDC Security 2023 - [Using WebAssembly to run, extend, and secure your .NET application](https://ndc-security.com/agenda/using-webassembly-to-run-extend-and-secure-your-net-application-0dlk/0osljmitryd)
 - NDC London 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndclondon.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0el1/07vtzib2mwo)
 - NDC London 2023 - [Securing your .NET application software supply-chain, the practical approach (workshop)](https://ndclondon.com/agenda/securing-your-net-application-software-supply-chain-the-practical-approach-0f2f/0nye43itic8)
