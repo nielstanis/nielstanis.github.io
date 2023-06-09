@@ -7,15 +7,18 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- DevNetNoord 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://devnetnoord.nl/#sandboxingdotnet)
-- DotNetSaturday 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://dotnedsaturday.nl/sessions/sandboxing-net-assemblies-for-fun-profit-and-of-course-security/)
-- Code Europe 2023 - Crawaw & Warsaw - Securing your .NET application software supply-chain
+- WeAreDevelopers World Congres 2023 - Using WebAssembly to run, extend, and secure your application
+- Copenhagen Developer Festival 2023 - [Securing your .NET application software supply-chain, the practical approach! (workshop)](https://cphdevfest.com/speakers/niels-tanis)
 
 ## Past
 
+- Code Europe 2023 - Crawaw & Warsaw - Securing your .NET application software supply-chain 
+- Code Europe 2023 - Crawaw & Warsaw - Using WebAssembly to run, extend, and secure your .NET application
+- DotNetSaturday 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://dotnedsaturday.nl/sessions/sandboxing-net-assemblies-for-fun-profit-and-of-course-security/)
+- DevNetNoord 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://devnetnoord.nl/#sandboxingdotnet) 
 - FutureTech 2023 - Using WebAssembly to run, extend, and secure your .NET application - [Slides](https://github.com/nielstanis/FutureTech2023/blob/main/Slides/FutureTech2023-WASM.pdf) - [GitHub](https://github.com/nielstanis/FutureTech2023)
 - NDC Security 2023 - [Using WebAssembly to run, extend, and secure your .NET application](https://ndc-security.com/agenda/using-webassembly-to-run-extend-and-secure-your-net-application-0dlk/0osljmitryd)
-- NDC London 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndclondon.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0el1/07vtzib2mwo)
+- NDC London 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndclondon.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-0el1/07vtzib2mwo) 
 - NDC London 2023 - [Securing your .NET application software supply-chain, the practical approach (workshop)](https://ndclondon.com/agenda/securing-your-net-application-software-supply-chain-the-practical-approach-0f2f/0nye43itic8)
 - UpdateConference 2022 - [Using WebAssembly to run, extend, and secure your .NET application](https://www.updateconference.net/en/2022/session/using-webassembly-to-run--extend--and-secure-your--net-application)
 - NDC Sydney 2022 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://ndcsydney.com/agenda/sandboxing-net-assemblies-for-fun-profit-and-of-course-security-08rl/0iqp154v9q3)
