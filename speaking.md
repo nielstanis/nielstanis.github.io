@@ -25,8 +25,8 @@ I've given presentations about different topics at various conferences. Below yo
 
 - WeAreDevelopers World Congres 2023 - Using WebAssembly to run, extend, and secure your application
 - Copenhagen Developer Festival 2023 - [Securing your .NET application software supply-chain, the practical approach! (workshop)](https://cphdevfest.com/speakers/niels-tanis)
-- Code Europe 2023 - Crawaw & Warsaw - Securing your .NET application software supply-chain 
-- Code Europe 2023 - Crawaw & Warsaw - Using WebAssembly to run, extend, and secure your .NET application
+- Code Europe 2023 - Crawow & Warsaw - Securing your .NET application software supply-chain 
+- Code Europe 2023 - Crawow & Warsaw - Using WebAssembly to run, extend, and secure your .NET application
 - DotNetSaturday 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://dotnedsaturday.nl/sessions/sandboxing-net-assemblies-for-fun-profit-and-of-course-security/)
 - DevNetNoord 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://devnetnoord.nl/#sandboxingdotnet) 
 - FutureTech 2023 - Using WebAssembly to run, extend, and secure your .NET application - [Slides](https://github.com/nielstanis/FutureTech2023/blob/main/Slides/FutureTech2023-WASM.pdf) - [GitHub](https://github.com/nielstanis/FutureTech2023)
