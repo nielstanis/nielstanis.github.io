@@ -14,12 +14,6 @@ I've given presentations about different topics at various conferences. Below yo
 - NDC Security 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://ndc-security.com/agenda/assessing-nuget-packages-more-easily-with-security-scorecards-0x8x/01l9zdcmcx1)
 - BitBash 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://www.bitbash.nl)
 
-## Videos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6W25YjFFpJY?si=PaSKndV4h-9YycbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NxV19P7VKyI?si=AsxKPTtJrDOBFIKa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mFiAhYaKao4?si=SP5eQtZVx1kvkuvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Past
 
 - WeAreDevelopers World Congres 2023 - Using WebAssembly to run, extend, and secure your application
