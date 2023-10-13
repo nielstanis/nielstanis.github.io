@@ -14,6 +14,12 @@ I've given presentations about different topics at various conferences. Below yo
 - NDC Security 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://ndc-security.com/agenda/assessing-nuget-packages-more-easily-with-security-scorecards-0x8x/01l9zdcmcx1)
 - BitBash 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://www.bitbash.nl)
 
+## Videos
+
+[![Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application](http://img.youtube.com/vi/6W25YjFFpJY/0.jpg)](http://www.youtube.com/watch?v=6W25YjFFpJY "Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application")
+
+[![Securing your .NET application software supply-chain - Niels Tanis - NDC Sydney 2022](http://img.youtube.com/vi/mFiAhYaKao4/0.jpg)](http://www.youtube.com/watch?v=mFiAhYaKao4 "Securing your .NET application software supply-chain - Niels Tanis - NDC Sydney 2022")
+
 ## Past
 
 - WeAreDevelopers World Congres 2023 - Using WebAssembly to run, extend, and secure your application
