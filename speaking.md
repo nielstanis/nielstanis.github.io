@@ -9,6 +9,7 @@ I've given presentations about different topics at various conferences. Below yo
 
 - NDC Security 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://ndc-security.com/agenda/assessing-nuget-packages-more-easily-with-security-scorecards-0x8x/01l9zdcmcx1)
 - BitBash 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://www.bitbash.nl)
+- Swetugg 2024 Stockholm - [Using WebAssembly to run, extend, and secure your .NET application](https://swetugg.se/sthlm-2024/speakers/niels-tanis)
 
 ## Videos
 
