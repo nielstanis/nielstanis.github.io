@@ -7,7 +7,7 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- NDC Security 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://ndc-security.com/agenda/assessing-nuget-packages-more-easily-with-security-scorecards-0x8x/01l9zdcmcx1)
+
 - BitBash 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://www.bitbash.nl)
 - Swetugg 2024 Stockholm - [Using WebAssembly to run, extend, and secure your .NET application](https://swetugg.se/sthlm-2024/speakers/niels-tanis)
 
@@ -20,13 +20,13 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Past
 
-
+- NDC Security 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://ndc-security.com/agenda/assessing-nuget-packages-more-easily-with-security-scorecards-0x8x/01l9zdcmcx1) -  [Slides]([https://github.com/nielstanis/ndcsecurity2024/blob/main/Slides/NuGetSSC.pdf](https://github.com/nielstanis/NDCSecurity2024/blob/main/Slides/NuGetScoreCardSlides.pdf)) - [GitHub] (https://github.com/nielstanis/NDCSecurity2024/blob/main/)
 - NDC Porto 2023 - [Using WebAssembly to run, extend, and secure your .NET application](https://ndcporto.com/agenda/using-webassembly-to-run-extend-and-secure-your-net-application-0njh/0c3ybbuclrf)
 - NDC Porto 2023 - [Securing your .NET application software supply-chain, the practical approach! (workshop)](https://ndcporto.com/agenda/part-12-securing-your-net-application-software-supply-chain-the-practical-approach-workshop-0ty2/0p80w24d3ya)
 - OWASP 2023 Global AppSec Washington, DC - [Using WebAssembly to run, extend, and secure your application](https://owasp2023globalappsecwashin.sched.com/event/1OM3A/using-webassembly-to-run-extend-and-secure-your-application)
 - OWASP BeNeLux 2023 - [Using WebAssembly to run, extend, and secure your application](https://www.owaspbenelux.eu/program/talks#Niels-Tanis)
-- WeAreDevelopers World Congres 2023 - Using WebAssembly to run, extend, and secure your application
 - Copenhagen Developer Festival 2023 - [Securing your .NET application software supply-chain, the practical approach! (workshop)](https://cphdevfest.com/speakers/niels-tanis)
+- WeAreDevelopers World Congress 2023 - Using WebAssembly to run, extend, and secure your application
 - Code Europe 2023 - Crawow & Warsaw - Securing your .NET application software supply-chain 
 - Code Europe 2023 - Crawow & Warsaw - Using WebAssembly to run, extend, and secure your .NET application
 - DotNetSaturday 2023 - [Sandboxing .NET assemblies for fun, profit and of course security!](https://dotnedsaturday.nl/sessions/sandboxing-net-assemblies-for-fun-profit-and-of-course-security/)
