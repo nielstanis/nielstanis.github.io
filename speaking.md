@@ -7,9 +7,8 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-
-- BitBash 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://www.bitbash.nl)
-- Swetugg 2024 Stockholm - [Using WebAssembly to run, extend, and secure your .NET application](https://swetugg.se/sthlm-2024/speakers/niels-tanis)
+- FutureTech 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://futuretech.nl/timetable/)
+- NDC Oslo 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://ndcoslo.com/agenda/reviewing-nuget-packages-security-easily-using-openssf-scorecard-0ad8/0reiuniivy3)
 
 ## Videos
 
@@ -20,7 +19,9 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Past
 
-- NDC Security 2024 - [Assessing NuGet Packages more easily with Security Scorecards](https://ndc-security.com/agenda/assessing-nuget-packages-more-easily-with-security-scorecards-0x8x/01l9zdcmcx1) -  [Slides]([https://github.com/nielstanis/ndcsecurity2024/blob/main/Slides/NuGetSSC.pdf](https://github.com/nielstanis/NDCSecurity2024/blob/main/Slides/NuGetScoreCardSlides.pdf)) - [GitHub] (https://github.com/nielstanis/NDCSecurity2024/blob/main/)
+- Swetugg 2024 Stockholm - [Using WebAssembly to run, extend, and secure your .NET application](https://swetugg.se/sthlm-2024/speakers/niels-tanis)
+- BitBash 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://www.bitbash.nl)
+- NDC Security 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://ndc-security.com/agenda/assessing-nuget-packages-more-easily-with-security-scorecards-0x8x/01l9zdcmcx1) -  [Slides]([https://github.com/nielstanis/ndcsecurity2024/blob/main/Slides/NuGetSSC.pdf](https://github.com/nielstanis/NDCSecurity2024/blob/main/Slides/NuGetScoreCardSlides.pdf)) - [GitHub] (https://github.com/nielstanis/NDCSecurity2024/blob/main/)
 - OWASP BeNeLux 2023 - [Using WebAssembly to run, extend, and secure your application](https://www.owaspbenelux.eu/program/talks#Niels-Tanis)
 - OWASP 2023 Global AppSec Washington, DC - [Using WebAssembly to run, extend, and secure your application](https://owasp2023globalappsecwashin.sched.com/event/1OM3A/using-webassembly-to-run-extend-and-secure-your-application)
 - NDC Porto 2023 - [Using WebAssembly to run, extend, and secure your .NET application](https://ndcporto.com/agenda/using-webassembly-to-run-extend-and-secure-your-net-application-0njh/0c3ybbuclrf)
