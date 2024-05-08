@@ -8,7 +8,7 @@ I've given presentations about different topics at various conferences. Below yo
 ## Scheduled
 
 - Boston .NET Architecture Group - 15th of May 2024 - Reviewing NuGet Packages security easily using OpenSSF Scorecard - [MeetUp registration](https://www.meetup.com/boston-net-architecture-group/events/299796842)
-- DotNetFriday 24th of May 2024 - [Using WebAssembly to run, extend, and secure your .NET application](https://dotnetfriday.nl/#sessions)
+- DotNetFriday - 24th of May 2024 - [Using WebAssembly to run, extend, and secure your .NET application](https://dotnetfriday.nl/#sessions)
 - NDC Oslo 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://ndcoslo.com/agenda/reviewing-nuget-packages-security-easily-using-openssf-scorecard-0ad8/0reiuniivy3)
 - OWASP 2024 Global AppSec Lisbon - [Reviewing 3rd Party Libraries security easily using OpenSSF Scorecard](https://owaspglobalappseclisbon2024.sched.com/event/1VThx/reviewing-3rd-party-libraries-security-easily-using-openssf-scorecard)
 - WeAreDevelopers World Congress 2024 - [Reviewing 3rd Party Libraries security easily using OpenSSF Scorecard](https://www.wearedevelopers.com/world-congress/speakers)
