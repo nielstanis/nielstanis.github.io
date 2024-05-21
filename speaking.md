@@ -7,7 +7,6 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- Boston .NET Architecture Group - 15th of May 2024 - Reviewing NuGet Packages security easily using OpenSSF Scorecard - [MeetUp registration](https://www.meetup.com/boston-net-architecture-group/events/299796842)
 - DotNetFriday - 24th of May 2024 - [Using WebAssembly to run, extend, and secure your .NET application](https://dotnetfriday.nl/#sessions)
 - NDC Oslo 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://ndcoslo.com/agenda/reviewing-nuget-packages-security-easily-using-openssf-scorecard-0ad8/0reiuniivy3)
 - OWASP 2024 Global AppSec Lisbon - [Reviewing 3rd Party Libraries security easily using OpenSSF Scorecard](https://owaspglobalappseclisbon2024.sched.com/event/1VThx/reviewing-3rd-party-libraries-security-easily-using-openssf-scorecard)
@@ -23,6 +22,7 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Past
 
+- Boston .NET Architecture Group - 15th of May 2024 - Reviewing NuGet Packages security easily using OpenSSF Scorecard - [MeetUp registration](https://www.meetup.com/boston-net-architecture-group/events/299796842) - [Slides](https://github.com/nielstanis/bostonarch2024/blob/main/Slides/BostonNETArch-NuGetSCC.pdf) - [GitHub](https://github.com/nielstanis/bostonarch2024)
 - FutureTech 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://futuretech.nl/timetable/)
 - Swetugg 2024 Stockholm - [Using WebAssembly to run, extend, and secure your .NET application](https://swetugg.se/sthlm-2024/speakers/niels-tanis)
 - BitBash 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://www.bitbash.nl)
