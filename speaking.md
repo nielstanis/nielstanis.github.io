@@ -8,7 +8,7 @@ I've given presentations about different topics at various conferences. Below yo
 ## Scheduled
 
 - Copenhagen Developer Fesitval 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://cphdevfest.com/agenda/reviewing-nuget-packages-security-easily-using-openssf-scorecard-0bwg/040ykhgguik)
-- Swetugg 2024 Göteborg - [Using WebAssembly to run, extend, and secure your .NET application]([https://swetugg.se/sthlm-2024/speakers/niels-tanis](https://swetugg.se/gbg-2024/speakers/niels-tanis#using-webassembly-to-run-extend-and-secure-your-net-application))
+- Swetugg 2024 Göteborg - [Using WebAssembly to run, extend, and secure your .NET application](https://swetugg.se/gbg-2024/speakers/niels-tanis#using-webassembly-to-run-extend-and-secure-your-net-application)
 - DevDay 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://devday.be/)
 - UpdateConference 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://www.updateconference.net)
 
