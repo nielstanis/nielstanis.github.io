@@ -7,21 +7,23 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- DotNetFriday - 24th of May 2024 - [Using WebAssembly to run, extend, and secure your .NET application](https://dotnetfriday.nl/#sessions)
-- NDC Oslo 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://ndcoslo.com/agenda/reviewing-nuget-packages-security-easily-using-openssf-scorecard-0ad8/0reiuniivy3)
-- OWASP 2024 Global AppSec Lisbon - [Reviewing 3rd Party Libraries security easily using OpenSSF Scorecard](https://owaspglobalappseclisbon2024.sched.com/event/1VThx/reviewing-3rd-party-libraries-security-easily-using-openssf-scorecard)
-- WeAreDevelopers World Congress 2024 - [Reviewing 3rd Party Libraries security easily using OpenSSF Scorecard](https://www.wearedevelopers.com/world-congress/speakers)
 - Copenhagen Developer Fesitval 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://cphdevfest.com/agenda/reviewing-nuget-packages-security-easily-using-openssf-scorecard-0bwg/040ykhgguik)
-  
+- Swetugg 2024 Göteborg - [Using WebAssembly to run, extend, and secure your .NET application]([https://swetugg.se/sthlm-2024/speakers/niels-tanis](https://swetugg.se/gbg-2024/speakers/niels-tanis#using-webassembly-to-run-extend-and-secure-your-net-application))
+- DevDay 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://devday.be/)
+- UpdateConference 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://www.updateconference.net)
+
 ## Videos
 
 [![Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application](https://img.youtube.com/vi/6W25YjFFpJY/0.jpg)](https://www.youtube.com/watch?v=6W25YjFFpJY "Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application")
 [![Sandboxing .NET assemblies for fun, profit and of course security! - Niels Tanis - NDC London 2023](https://img.youtube.com/vi/NxV19P7VKyI/0.jpg)](https://www.youtube.com/watch?v=NxV19P7VKyI "Sandboxing .NET assemblies for fun, profit and of course security! - Niels Tanis - NDC London 2023")
 [![Securing your .NET application software supply-chain - Niels Tanis - NDC Sydney 2022](https://img.youtube.com/vi/mFiAhYaKao4/0.jpg)](https://www.youtube.com/watch?v=mFiAhYaKao4 "Securing your .NET application software supply-chain - Niels Tanis - NDC Sydney 2022")
 
-
 ## Past
 
+- WeAreDevelopers World Congress 2024 - [Reviewing 3rd Party Libraries security easily using OpenSSF Scorecard](https://www.wearedevelopers.com/world-congress/speakers)
+- NDC Oslo 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://ndcoslo.com/agenda/reviewing-nuget-packages-security-easily-using-openssf-scorecard-0ad8/0reiuniivy3)
+- OWASP 2024 Global AppSec Lisbon - [Reviewing 3rd Party Libraries security easily using OpenSSF Scorecard](https://owaspglobalappseclisbon2024.sched.com/event/1VThx/reviewing-3rd-party-libraries-security-easily-using-openssf-scorecard)
+- DotNetFriday - 24th of May 2024 - [Using WebAssembly to run, extend, and secure your .NET application](https://dotnetfriday.nl/#sessions)
 - Boston .NET Architecture Group - 15th of May 2024 - Reviewing NuGet Packages security easily using OpenSSF Scorecard - [MeetUp registration](https://www.meetup.com/boston-net-architecture-group/events/299796842) - [Slides](https://github.com/nielstanis/bostonarch2024/blob/main/Slides/BostonNETArch-NuGetSCC.pdf) - [GitHub](https://github.com/nielstanis/bostonarch2024)
 - FutureTech 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://futuretech.nl/timetable/)
 - Swetugg 2024 Stockholm - [Using WebAssembly to run, extend, and secure your .NET application](https://swetugg.se/sthlm-2024/speakers/niels-tanis)
