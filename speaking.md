@@ -13,7 +13,7 @@ I've given presentations about different topics at various conferences. Below yo
 - UpdateConference 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://www.updateconference.net)
 
 ## Videos
-
+[![Assessing 3rd Party Libraries More Easily With Security Scorecards - Niels Tanis - OWASP Global AppSec EU 2024](https://img.youtube.com/vi/BZy5UaiAMDY/0.jpg)](https://www.youtube.com/watch?v=BZy5UaiAMDY "Assessing 3rd Party Libraries More Easily With Security Scorecards - Niels Tanis - OWASP Global AppSec EU 2024")
 [![Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application](https://img.youtube.com/vi/6W25YjFFpJY/0.jpg)](https://www.youtube.com/watch?v=6W25YjFFpJY "Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application")
 [![Sandboxing .NET assemblies for fun, profit and of course security! - Niels Tanis - NDC London 2023](https://img.youtube.com/vi/NxV19P7VKyI/0.jpg)](https://www.youtube.com/watch?v=NxV19P7VKyI "Sandboxing .NET assemblies for fun, profit and of course security! - Niels Tanis - NDC London 2023")
 [![Securing your .NET application software supply-chain - Niels Tanis - NDC Sydney 2022](https://img.youtube.com/vi/mFiAhYaKao4/0.jpg)](https://www.youtube.com/watch?v=mFiAhYaKao4 "Securing your .NET application software supply-chain - Niels Tanis - NDC Sydney 2022")
