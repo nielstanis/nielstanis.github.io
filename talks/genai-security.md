@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Using GenAI on and inside your code, what could possibly go wrong?
+menu: false
 ---
 
 #Using GenAI on and inside your code, what could possibly go wrong? 
