@@ -1,12 +1,13 @@
 ---
-layout: page
-title: Speaking
+layout: talk
+title: Using GenAI on and inside your code, what could possibly go wrong?
 ---
 
 I've given presentations about different topics at various conferences. Below you can find a list of speaking engagements below. A list of my current list of presentation abstracts can be found in [Sessionize](https://sessionize.com/nielstanis/).
 
 ## Scheduled
-- DevNetNoord DevCampNoord 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://devnetnoord.nl/#speakers)
+
+- FutureTech 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://futuretech.nl/timetable/)
 - NDC Oslo 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://ndc-security.com/agenda/using-genai-on-your-code-what-could-possibly-go-wrong-0n71/0vd83hnf3pc)
 
 ## Videos
@@ -18,7 +19,6 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Past
 
-- FutureTech 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://futuretech.nl/timetable/)
 - NDC Security 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://ndc-security.com/agenda/using-genai-on-your-code-what-could-possibly-go-wrong-0n71/0vd83hnf3pc)
 - UpdateConference 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://www.updateconference.net)
 - DevDay 2024 - [Reviewing NuGet Packages security easily using OpenSSF Scorecard](https://devday.be/)
