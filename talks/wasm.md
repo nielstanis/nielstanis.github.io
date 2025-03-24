@@ -9,17 +9,19 @@ In this session we'll start out with going through some of the basic security fe
 
 ## Videos
 
+[![Swetugg 2024 Göteborg: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application](https://img.youtube.com/vi/mINJd5Zc7mE/0.jpg)](https://www.youtube.com/watch?v=mINJd5Zc7mE "Swetugg 2024 Göteborg: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application")
 [![Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application](https://img.youtube.com/vi/6W25YjFFpJY/0.jpg)](https://www.youtube.com/watch?v=6W25YjFFpJY "Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application")
 
 ## Links
 
-- Swetugg 2024 Göteborg - [Using WebAssembly to run, extend, and secure your .NET application](https://swetugg.se/gbg-2024/speakers/niels-tanis#using-webassembly-to-run-extend-and-secure-your-net-application)
-- DotNetFriday - 24th of May 2024 - [Using WebAssembly to run, extend, and secure your .NET application](https://dotnetfriday.nl/)
-- Swetugg 2024 Stockholm - [Using WebAssembly to run, extend, and secure your .NET application](https://swetugg.- OWASP BeNeLux 2023 - [Using WebAssembly to run, extend, and secure your application](https://www.owaspbenelux.eu/program/talks#Niels-Tanis)
-- OWASP 2023 Global AppSec Washington, DC - [Using WebAssembly to run, extend, and secure your application](https://owasp2023globalappsecwashin.sched.com/event/1OM3A/using-webassembly-to-run-extend-and-secure-your-application)
-- NDC Porto 2023 - [Using WebAssembly to run, extend, and secure your .NET application](https://ndcporto.com/agenda/using-webassembly-to-run-extend-and-secure-your-net-application-0njh/0c3ybbuclrf)
-- WeAreDevelopers World Congress 2023 - Using WebAssembly to run, extend, and secure your application
-- Code Europe 2023 - Crawow & Warsaw - Using WebAssembly to run, extend, and secure your .NET application
-- FutureTech 2023 - Using WebAssembly to run, extend, and secure your .NET application - [Slides](https://github.com/nielstanis/FutureTech2023/blob/main/Slides/FutureTech2023-WASM.pdf) - [GitHub](https://github.com/nielstanis/FutureTech2023)
-- NDC Security 2023 - [Using WebAssembly to run, extend, and secure your .NET application](https://ndc-security.com/agenda/using-webassembly-to-run-extend-and-secure-your-net-application-0dlk/0osljmitryd)
-- UpdateConference 2022 - [Using WebAssembly to run, extend, and secure your .NET application](https://www.updateconference.net/en/2022/session/using-webassembly-to-run--extend--and-secure-your--net-application)
+- Swetugg 2024 Göteborg - [Slides]() - [GitHub]()
+- DotNetFriday - 24th of May 2024 - [Slides]() - [GitHub]()
+- Swetugg 2024 Stockholm - [Slides]() - [GitHub]()
+- OWASP BeNeLux 2023 - [Slides]() - [GitHub]()
+- OWASP 2023 Global AppSec Washington, DC - [Slides]() - [GitHub]()
+- NDC Porto 2023 - [Slides]() - [GitHub]()
+- WeAreDevelopers World Congress 2023 - [Slides]() - [GitHub]()
+- Code Europe 2023 - Crawow & Warsaw - [Slides]() - [GitHub]()
+- FutureTech 2023 - [Slides]() - [GitHub]()
+- NDC Security 2023 - [Slides]() - [GitHub]()
+- UpdateConference 2022 - [Slides]() - [GitHub]()
