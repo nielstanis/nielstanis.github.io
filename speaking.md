@@ -7,6 +7,7 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 - NDC Copenhagen 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://ndccopenhagen.com/agenda/using-genai-on-and-inside-your-code-what-could-possibly-go-wrong-05op/0a3d1bm1jzt)
+- NDC Manchester 2025 Security+AI - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://ndcmanchester.com/agenda/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain-0gfz/0zxs1u3ey22)
 
 ## Videos
 
