@@ -14,7 +14,6 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Videos
 
-- NDC Copenhagen 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://ndccopenhagen.com/agenda/using-genai-on-and-inside-your-code-what-could-possibly-go-wrong-05op/0a3d1bm1jzt)
 [![Using GenAI on and inside your code, what could possibly go wrong? - Niels Tanis - NDC Oslo 2025](https://img.youtube.com/vi/scQxSwJEHUY/0.jpg)](https://www.youtube.com/watch?v=scQxSwJEHUY "Using GenAI on and inside your code, what could possibly go wrong? - Niels Tanis - NDC Oslo 2025")
 [![Assessing 3rd Party Libraries More Easily With Security Scorecards - Niels Tanis - OWASP Global AppSec EU 2024](https://img.youtube.com/vi/BZy5UaiAMDY/0.jpg)](https://www.youtube.com/watch?v=BZy5UaiAMDY "Assessing 3rd Party Libraries More Easily With Security Scorecards - Niels Tanis - OWASP Global AppSec EU 2024")
 [![Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application](https://img.youtube.com/vi/6W25YjFFpJY/0.jpg)](https://www.youtube.com/watch?v=6W25YjFFpJY "Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application")
@@ -23,6 +22,7 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Past
 
+- NDC Copenhagen 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://ndccopenhagen.com/agenda/using-genai-on-and-inside-your-code-what-could-possibly-go-wrong-05op/0a3d1bm1jzt)
 - DevNetNoord DevCampNoord 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://devnetnoord.nl/#speakers)
 - NDC Oslo 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://ndcoslo.com/agenda/using-genai-on-and-inside-your-code-what-could-possibly-go-wrong-0m9k/0petetaob1a)
 - FutureTech 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://futuretech.nl/timetable/)
