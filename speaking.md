@@ -7,9 +7,6 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- DevDay 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://www.devday.be/Speakers/Details/197)
-- VisugXL 2025 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://www.visug.be/Events/102)
-- NDC Manchester 2025 Security+AI - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://ndcmanchester.com/agenda/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain-0gfz/0zxs1u3ey22)
 - BitBash 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://www.bitbash.nl/winter-2026/session/beyond-trust-building-communitydriven-security-analysis-for-your-net-software-supply-chain)
 
 ## Videos
@@ -22,6 +19,9 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Past
 
+- NDC Manchester 2025 Security+AI - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://ndcmanchester.com/agenda/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain-0gfz/0zxs1u3ey22)
+- VisugXL 2025 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://www.visug.be/Events/102)
+- DevDay 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://www.devday.be/Speakers/Details/197)
 - NDC Copenhagen 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://ndccopenhagen.com/agenda/using-genai-on-and-inside-your-code-what-could-possibly-go-wrong-05op/0a3d1bm1jzt)
 - DevNetNoord DevCampNoord 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://devnetnoord.nl/#speakers)
 - NDC Oslo 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://ndcoslo.com/agenda/using-genai-on-and-inside-your-code-what-could-possibly-go-wrong-0m9k/0petetaob1a)
