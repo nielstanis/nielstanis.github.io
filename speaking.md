@@ -7,10 +7,12 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- BitBash 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://www.bitbash.nl/winter-2026/session/beyond-trust-building-communitydriven-security-analysis-for-your-net-software-supply-chain)
+- NDC Security 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://ndcsecurity.com/agenda/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain-0aqv/09i6usxpe5j)
+- FutureTech 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://futuretech.nl/speakers/)
+- UpdateConference Krakow 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://krakow.updateconference.net/en/2026/schedule/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain)
 
 ## Videos
-
+[![Building Community-Driven Security Analysis for Your .NET Software Supply Chain - Niels Tanis - NDC Manchester 2025](https://img.youtube.com/vi/l5E0civv82U/0.jpg)](https://www.youtube.com/watch?v=l5E0civv82U "Building Community-Driven Security Analysis for Your .NET Software Supply Chain - NDC Manchester 2025")
 [![Using GenAI on and inside your code, what could possibly go wrong? - Niels Tanis - NDC Oslo 2025](https://img.youtube.com/vi/scQxSwJEHUY/0.jpg)](https://www.youtube.com/watch?v=scQxSwJEHUY "Using GenAI on and inside your code, what could possibly go wrong? - Niels Tanis - NDC Oslo 2025")
 [![Assessing 3rd Party Libraries More Easily With Security Scorecards - Niels Tanis - OWASP Global AppSec EU 2024](https://img.youtube.com/vi/BZy5UaiAMDY/0.jpg)](https://www.youtube.com/watch?v=BZy5UaiAMDY "Assessing 3rd Party Libraries More Easily With Security Scorecards - Niels Tanis - OWASP Global AppSec EU 2024")
 [![Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application](https://img.youtube.com/vi/6W25YjFFpJY/0.jpg)](https://www.youtube.com/watch?v=6W25YjFFpJY "Future Tech 2023: Niels Tanis - Using WebAssembly to run, extend, and secure your .NET application")
@@ -19,6 +21,8 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Past
 
+- NDC London 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://ndclondon.com/agenda/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain-0aqv/c93bd8be99ae)
+- BitBash 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://www.bitbash.nl/winter-2026/session/beyond-trust-building-communitydriven-security-analysis-for-your-net-software-supply-chain)
 - NDC Manchester 2025 Security+AI - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://ndcmanchester.com/agenda/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain-0gfz/0zxs1u3ey22)
 - VisugXL 2025 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://www.visug.be/Events/102)
 - DevDay 2025 - [Using GenAI on and inside your code, what could possibly go wrong?](https://www.devday.be/Speakers/Details/197)
