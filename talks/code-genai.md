@@ -17,5 +17,9 @@ In this presentation, we will examine real-world data from several academic stud
 
 ## Slides & Content
 
+- DevDay 2025 - [Slides](https://github.com/nielstanis/devday2025/blob/main/Slides/DevDay2025.pdf) - [Github](https://github.com/nielstanis/devday2025/)
+- NDC Copenhagen Developer Festival 2025 - [Slides](https://github.com/nielstanis/ndccopenhagen2025/blob/main/Slides/NDCCPH2025.pdf) - [Github](https://github.com/nielstanis/ndccopenhagen2025/)
+- NDC Oslo 2025 - [Slides](https://github.com/nielstanis/ndcoslo2025/blob/main/Slides/NDCOslo2025.pdf) - [Github](https://github.com/nielstanis/ndcoslo2025/)
+- devCampNoord 2025 [Slides](https://github.com/nielstanis/devnetnoord2025/blob/main/Slides/devnetnoord2025.pdf) - [Github](https://github.com/nielstanis/devnetnoord2025/)
 - FutureTech 2025 - [Slides](https://github.com/nielstanis/futuretech2025/blob/main/Slides/FutureTech2025.pdf) - [Github](https://github.com/nielstanis/futuretech2025/)
 - NDC Security 2025 - [Slides](https://github.com/nielstanis/ndcsecurity2025/blob/main/Slides/NDCSecurity2025.pdf) - [Github](https://github.com/nielstanis/ndcsecurity2025)
