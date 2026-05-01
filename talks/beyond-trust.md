@@ -19,9 +19,9 @@ Whether you're a security-conscious developer, a DevOps engineer, or someone res
 
 ## Slides & Content
 
-- FutureTech 2026 - [Slides](https://github.com/nielstanis/futuretech2026/blob/main/Slides/futuretech2026.pdf) - [Github](https://github.com/nielstanis/futuretech2026)
-- NDC Security 2026 - [Slides](https://github.com/nielstanis/ndcsecurity2026/blob/main/Slides/ndcsecurity2026.pdf) - [Github](https://github.com/nielstanis/ndcsecurity2026)
-- NDC London 2026 - [Slides](https://github.com/nielstanis/ndcmanchester2025/blob/main/Slides/NDCManchester.pdf) - [Github](https://github.com/nielstanis/ndclondon2026)
-- BitBash 2026 - [Slides](https://github.com/nielstanis/bitbash2026/blob/main/Slides/BitBash2026.pdf) - [Github](https://github.com/nielstanis/bitbash2026)
-- NDC Manchester 2025 AI + Security - [Slides](https://github.com/nielstanis/ndcmanchester2025/blob/main/Slides/NDCManchester.pdf) - [Github](https://github.com/nielstanis/ndcmanchester2025)
-- VisugXL 2025 - [Slides](https://github.com/nielstanis/visugxl2025) - [Github](https://github.com/nielstanis/visugxl2025)
+- FutureTech 2026 - [Slides](https://github.com/nielstanis/futuretech2026/blob/main/Slides/futuretech2026.pdf) - [GitHub](https://github.com/nielstanis/futuretech2026)
+- NDC Security 2026 - [Slides](https://github.com/nielstanis/ndcsecurity2026/blob/main/Slides/ndcsecurity2026.pdf) - [GitHub](https://github.com/nielstanis/ndcsecurity2026)
+- NDC London 2026 - [Slides](https://github.com/nielstanis/ndcmanchester2025/blob/main/Slides/NDCManchester.pdf) - [GitHub](https://github.com/nielstanis/ndclondon2026)
+- BitBash 2026 - [Slides](https://github.com/nielstanis/bitbash2026/blob/main/Slides/BitBash2026.pdf) - [GitHub](https://github.com/nielstanis/bitbash2026)
+- NDC Manchester 2025 AI + Security - [Slides](https://github.com/nielstanis/ndcmanchester2025/blob/main/Slides/NDCManchester.pdf) - [GitHub](https://github.com/nielstanis/ndcmanchester2025)
+- VisugXL 2025 - [Slides](https://github.com/nielstanis/visugxl2025) - [GitHub](https://github.com/nielstanis/visugxl2025)
