@@ -10,6 +10,9 @@ In this presentation, we will examine real-world data from several academic stud
 
 ## Videos
 
+
+[![NDC Copenhagen Developer Festival 2025 - Using GenAI on and inside your code, what could possibly go wrong?](https://img.youtube.com/vi/eaUL-V58woU/0.jpg)](https://www.youtube.com/watch?v=eaUL-V58woU& "NDC Copenhagen Developer Festival 2025 - Using GenAI on and inside your code, what could possibly go wrong?")
+[![NDC Oslo 2025 - Using GenAI on and inside your code, what could possibly go wrong?](https://img.youtube.com/vi/scQxSwJEHUY/0.jpg)](https://www.youtube.com/watch?v=scQxSwJEHUY& "NDC Oslo 2025 - Using GenAI on and inside your code, what could possibly go wrong?")
 [![NDC Security 2025 - Using GenAI on and inside your code, what could possibly go wrong?](https://img.youtube.com/vi/krDJlrw5mM0/0.jpg)](https://www.youtube.com/watch?v=krDJlrw5mM0& "NDC Security 2025 - Using GenAI on and inside your code, what could possibly go wrong?")
 
 ## Slides & Content
