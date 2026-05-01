@@ -12,7 +12,7 @@ In this presentation, we will examine real-world data from several academic stud
 
 [![NDC Security 2025 - Using GenAI on and inside your code, what could possibly go wrong?](https://img.youtube.com/vi/krDJlrw5mM0/0.jpg)](https://www.youtube.com/watch?v=krDJlrw5mM0& "NDC Security 2025 - Using GenAI on and inside your code, what could possibly go wrong?")
 
-## Past
+## Slides
 
 - FutureTech 2025 - [Slides](https://github.com/nielstanis/futuretech2025/blob/main/Slides/FutureTech2025.pdf) - [Github](https://github.com/nielstanis/futuretech2025/)
 - NDC Security 2025 - [Slides](https://github.com/nielstanis/ndcsecurity2025/blob/main/Slides/NDCSecurity2025.pdf) - [Github](https://github.com/nielstanis/ndcsecurity2025)
