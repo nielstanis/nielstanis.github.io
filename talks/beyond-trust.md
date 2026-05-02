@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain
+title: Beyond Trust - Building Community-Driven Security Analysis for Your .NET Software Supply Chain
 ---
 
 In today's development, approximately 80% of our software deployments consist of code written by someone else. Using existing libraries and packages is essential for productivity and avoiding reinventing the wheel, this dependency on third-party code introduces  security risks that can be hard to address in a good way.
