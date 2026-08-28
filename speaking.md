@@ -7,9 +7,8 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- NDC Security 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://ndcsecurity.com/agenda/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain-0aqv/09i6usxpe5j)
-- FutureTech 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://futuretech.nl/speakers/)
-- UpdateConference Krakow 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://krakow.updateconference.net/en/2026/schedule/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain)
+- Hypeless AI by Update - September 2026 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI](https://hypeless-ai.updateconf.net/)
+- UpdateConference 2026 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with A](https://www.updateconference.net](https://prague.updateconference.net/en/2026/speakers/niels-tanis))
 
 ## Videos
 [![Building Community-Driven Security Analysis for Your .NET Software Supply Chain - Niels Tanis - NDC Manchester 2025](https://img.youtube.com/vi/l5E0civv82U/0.jpg)](https://www.youtube.com/watch?v=l5E0civv82U "Building Community-Driven Security Analysis for Your .NET Software Supply Chain - NDC Manchester 2025")
@@ -21,6 +20,9 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Past
 
+- NDC Security 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://ndcsecurity.com/agenda/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain-0aqv/09i6usxpe5j)
+- FutureTech 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://futuretech.nl/speakers/)
+- UpdateConference Krakow 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://krakow.updateconference.net/en/2026/schedule/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain)
 - NDC London 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://ndclondon.com/agenda/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain-0aqv/c93bd8be99ae)
 - BitBash 2026 - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://www.bitbash.nl/winter-2026/session/beyond-trust-building-communitydriven-security-analysis-for-your-net-software-supply-chain)
 - NDC Manchester 2025 Security+AI - [Beyond Trust: Building Community-Driven Security Analysis for Your .NET Software Supply Chain](https://ndcmanchester.com/agenda/beyond-trust-building-community-driven-security-analysis-for-your-net-software-supply-chain-0gfz/0zxs1u3ey22)
