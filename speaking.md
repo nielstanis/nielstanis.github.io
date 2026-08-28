@@ -7,7 +7,7 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- Hypeless AI by Update - September 2026 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI](https://hypeless-ai.updateconf.net/)
+- HYPEless AI by Update - September 2026 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI](https://hypeless-ai.updateconf.net/)
 - UpdateConference 2026 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with A](https://www.updateconference.net](https://prague.updateconference.net/en/2026/speakers/niels-tanis))
 
 ## Videos
