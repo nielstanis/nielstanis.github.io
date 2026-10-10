@@ -7,10 +7,10 @@ I've given presentations about different topics at various conferences. Below yo
 
 ## Scheduled
 
-- UpdateConference 2026 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI]("https://prague.updateconference.net/en/2026/speakers/niels-tanis")]
-- DevNetNoord 2026 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI]("https://devnetnoord.nl/#schedule")
-- BitBash 2027 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI]("https://www.bitbash.nl/winter-2027/session/build-break-defend-repeat-automating-appsec-for-net-with-ai")
-- NDC London 2027 -  [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI]("https://ndclondon.com/agenda/build-break-defend-repeat-automating-appsec-for-dotnet-with-ai")]
+- UpdateConference 2026 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI]("https://prague.updateconference.net/en/2026/speakers/niels-tanis)
+- DevNetNoord 2026 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI](https://devnetnoord.nl/#schedule)
+- BitBash 2027 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI](https://www.bitbash.nl/winter-2027/session/build-break-defend-repeat-automating-appsec-for-net-with-ai)
+- NDC London 2027 - [Build. Break. Defend. Repeat: Automating AppSec for .NET with AI](https://ndclondon.com/agenda/build-break-defend-repeat-automating-appsec-for-dotnet-with-ai)
 
 ## Videos
 [![Building Community-Driven Security Analysis for Your .NET Software Supply Chain - Niels Tanis - NDC Manchester 2025](https://img.youtube.com/vi/l5E0civv82U/0.jpg)](https://www.youtube.com/watch?v=l5E0civv82U "Building Community-Driven Security Analysis for Your .NET Software Supply Chain - NDC Manchester 2025")
