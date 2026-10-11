@@ -106,11 +106,20 @@ a.sidebar-nav-item:focus {
  */
 
 @media (min-width: 48em) {
+  .sidebar {
+    overflow-y: auto;
+  }
   .sidebar-sticky {
-    position: absolute;
-    right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
+    position: static;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    min-height: 100%;
+  }
+  /* Pushes the toggle to the bottom; on short windows the sidebar scrolls instead of clipping it */
+  .sidebar-sticky .theme-toggle-wrap {
+    margin-top: auto;
+    padding-top: 1rem;
   }
 }
 
