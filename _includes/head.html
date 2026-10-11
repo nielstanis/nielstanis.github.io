@@ -14,11 +14,27 @@
     {% endif %}
   </title>
 
+  <!-- Theme: stored choice, else OS preference (set before paint to avoid a flash) -->
+  <script>
+    (function () {
+      var root = document.documentElement, stored = null;
+      try { stored = localStorage.getItem("theme"); } catch (e) {}
+      var mq = window.matchMedia("(prefers-color-scheme: dark)");
+      root.setAttribute("data-theme", stored || (mq.matches ? "dark" : "light"));
+      mq.addEventListener && mq.addEventListener("change", function (e) {
+        var s = null;
+        try { s = localStorage.getItem("theme"); } catch (x) {}
+        if (!s) root.setAttribute("data-theme", e.matches ? "dark" : "light");
+      });
+    })();
+  </script>
+
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
   <link rel="stylesheet" href="/public/css/hyde.css">
   <link rel="stylesheet" href="/public/css/fennec.css">
+  <link rel="stylesheet" href="/public/css/dark.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;700&family=Abril+Fatface&display=swap">
 
   <!-- Icons -->
