@@ -93,21 +93,46 @@ html[data-theme="dark"] {
   & .css .o, & .css .o + .nt, & .css .nt + .nt { color: #7d8590; }
 }
 
-/* Theme toggle (sidebar): sun in light theme, moon in dark theme */
-.theme-toggle {
-  padding: 0;
-  margin: 0 0 0 .25rem;
-  vertical-align: middle;
-  line-height: 0;
-  background: transparent;
-  border: 0;
-  cursor: pointer;
-  opacity: .85;
+/* Theme toggle: pill switch at the bottom of the sidebar. The knob shows the
+   current theme's icon (sun = light, moon = dark). Colors invert per theme. */
+.theme-toggle-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
 }
-.theme-toggle:hover, .theme-toggle:focus { opacity: 1; }
+.theme-toggle {
+  position: relative;
+  width: 4rem;
+  height: 2rem;
+  padding: 0;
+  background: #333537;
+  border: 1px solid rgba(255,255,255,.35);
+  border-radius: 999px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.4);
+  cursor: pointer;
+  transition: background-color .2s ease;
+}
+.theme-knob {
+  position: absolute;
+  top: .1875rem;
+  left: .1875rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  color: #000;
+  background: #fff;
+  border-radius: 50%;
+  transition: transform .2s ease, background-color .2s ease, color .2s ease;
+}
+.theme-knob svg { width: 1rem; height: 1rem; }
+.theme-toggle:focus-visible { outline: 2px solid #8b93ff; outline-offset: 2px; }
 .theme-toggle .icon-moon { display: none; }
+html[data-theme="dark"] .theme-toggle { background: #f4f4f4; border-color: #f4f4f4; }
+html[data-theme="dark"] .theme-knob { color: #fff; background: #000; transform: translateX(2rem); }
 html[data-theme="dark"] .theme-toggle .icon-sun { display: none; }
-html[data-theme="dark"] .theme-toggle .icon-moon { display: inline; }
+html[data-theme="dark"] .theme-toggle .icon-moon { display: block; }
 
 /* Darker sidebar in dark theme (darker than the page, so it stays distinct) */
 html[data-theme="dark"] .sidebar { background-color: #0a0b0d; }
