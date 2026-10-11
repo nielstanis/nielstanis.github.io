@@ -16,6 +16,8 @@
         var root = document.documentElement;
         var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
         root.setAttribute("data-theme", next);
+        root.classList.add("theme-transition");
+        setTimeout(function () { root.classList.remove("theme-transition"); }, 450);
         try { localStorage.setItem("theme", next); } catch (e) {}
       });
     </script>
