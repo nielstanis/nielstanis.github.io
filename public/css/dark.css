@@ -1,92 +1,112 @@
 /*
  * Dark mode
  *
- * Follows the OS setting. Only content colors are overridden; the sidebar
+ * Applied when <html data-theme="dark"> is set (OS preference or the toggle,
+ * see _includes/head.html). Only content colors are overridden; the sidebar
  * (.sidebar, hyde.css) is intentionally left untouched so it stays distinctive.
+ * Uses native CSS nesting.
  */
 
-:root {
-  color-scheme: light dark;
-}
+:root { color-scheme: light; }
 
-@media (prefers-color-scheme: dark) {
-  body {
+html[data-theme="dark"] {
+  color-scheme: dark;
+
+  & body {
     color: #c9d1d9;
     background-color: #14161a;
   }
 
-  .content a { color: #8b93ff; }
-  .content a:hover, .content a:focus { color: #a9afff; }
+  & .content a { color: #8b93ff; }
+  & .content a:hover, & .content a:focus { color: #a9afff; }
 
-  h1, h2, h3, h4, h5, h6,
-  strong,
-  .page-title, .post-title, .post-title a {
+  & h1, & h2, & h3, & h4, & h5, & h6,
+  & strong,
+  & .page-title, & .post-title, & .post-title a {
     color: #eceff4;
   }
 
-  hr { border-top-color: #2b2f36; border-bottom-color: #14161a; }
-  abbr { color: #aab; }
-  abbr[title] { border-bottom-color: #3a3f47; }
+  & hr { border-top-color: #2b2f36; border-bottom-color: #14161a; }
+  & abbr { color: #aab; }
+  & abbr[title] { border-bottom-color: #3a3f47; }
 
-  code { color: #e88b95; background-color: #1d2026; }
-  pre, .message { background-color: #1d2026; }
-  pre code { color: inherit; background-color: transparent; }
+  & code { color: #e88b95; background-color: #1d2026; }
+  & pre, & .message { background-color: #1d2026; }
+  & pre code { color: inherit; background-color: transparent; }
 
-  blockquote { color: #9aa0a8; border-left-color: #3a3f47; }
+  & blockquote { color: #9aa0a8; border-left-color: #3a3f47; }
 
-  table, td, th { border-color: #2b2f36; }
-  tbody tr:nth-child(odd) td,
-  tbody tr:nth-child(odd) th { background-color: #1d2026; }
+  & table, & td, & th { border-color: #2b2f36; }
+  & tbody tr:nth-child(odd) td,
+  & tbody tr:nth-child(odd) th { background-color: #1d2026; }
 
-  .message { color: #aab0b8; }
-  .masthead-title, .masthead-title a { color: #d0d4da; }
-  .post-date { color: #7d848d; }
+  & .message { color: #aab0b8; }
+  & .masthead-title, & .masthead-title a { color: #d0d4da; }
+  & .post-date { color: #7d848d; }
 
-  .related { border-top-color: #2b2f36; }
-  .related-posts li small { color: #7d848d; }
-  .related-posts li a:hover { color: #6cb6ff; }
+  & .related { border-top-color: #2b2f36; }
+  & .related-posts li small { color: #7d848d; }
+  & .related-posts li a:hover { color: #6cb6ff; }
 
-  .pagination { color: #5d636b; }
-  .pagination-item { border-color: #2b2f36; }
-  a.pagination-item:hover { background-color: #1d2026; }
+  & .pagination { color: #5d636b; }
+  & .pagination-item { border-color: #2b2f36; }
+  & a.pagination-item:hover { background-color: #1d2026; }
 
   /* Syntax highlighting */
-  .highlight .hll { background-color: #3b3a1f; }
-  .highlight .c, .highlight .c1, .highlight .cs { color: #7d8590; }
-  .highlight .cm { color: #6cb6ff; }
-  .highlight .cp { color: #56d4c4; }
-  .highlight .err { color: #ffb3b3; background-color: #5a1d1d; }
-  .highlight .k, .highlight .kc, .highlight .kd, .highlight .kn,
-  .highlight .kp, .highlight .kr { color: #6cb6ff; }
-  .highlight .kt { color: #4ad0c0; }
-  .highlight .o { color: #b6bdc6; }
-  .highlight .ow { color: #e6edf3; }
-  .highlight .gd { background-color: #4a1f1f; border-color: #a33; }
-  .highlight .gi { background-color: #1f4a28; border-color: #2a8a3c; }
-  .highlight .gr { color: #ff7b72; }
-  .highlight .gh, .highlight .gu { color: #7ee787; }
-  .highlight .go { color: #7d8590; }
-  .highlight .gp { color: #8b93ff; }
-  .highlight .gt { color: #a5d66b; }
-  .highlight .m, .highlight .mf, .highlight .mh, .highlight .mi,
-  .highlight .mo, .highlight .il { color: #ffa657; }
-  .highlight .s, .highlight .sb, .highlight .sc, .highlight .sd,
-  .highlight .s2, .highlight .se, .highlight .sh, .highlight .sx,
-  .highlight .s1 { color: #f0a08a; }
-  .highlight .si { color: #ff7b72; }
-  .highlight .sr { color: #56d4c4; }
-  .highlight .ss { color: #ffd866; }
-  .highlight .na { color: #79c0ff; }
-  .highlight .nb, .highlight .bp { color: #56d4c4; }
-  .highlight .nc { color: #4ad0c0; }
-  .highlight .no { color: #a5d66b; }
-  .highlight .nd, .highlight .nl { color: #b3b8ff; }
-  .highlight .ni { color: #7d8590; }
-  .highlight .ne { color: #ff7b72; }
-  .highlight .nf { color: #d2a8ff; }
-  .highlight .nn { color: #56d4f0; }
-  .highlight .nt { color: #7ab8e8; }
-  .highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi { color: #7fd1c1; }
-  .highlight .w { color: #3a3f47; }
-  .css .o, .css .o + .nt, .css .nt + .nt { color: #7d8590; }
+  & .highlight .hll { background-color: #3b3a1f; }
+  & .highlight .c, & .highlight .c1, & .highlight .cs { color: #7d8590; }
+  & .highlight .cm { color: #6cb6ff; }
+  & .highlight .cp { color: #56d4c4; }
+  & .highlight .err { color: #ffb3b3; background-color: #5a1d1d; }
+  & .highlight .k, & .highlight .kc, & .highlight .kd, & .highlight .kn,
+  & .highlight .kp, & .highlight .kr { color: #6cb6ff; }
+  & .highlight .kt { color: #4ad0c0; }
+  & .highlight .o { color: #b6bdc6; }
+  & .highlight .ow { color: #e6edf3; }
+  & .highlight .gd { background-color: #4a1f1f; border-color: #a33; }
+  & .highlight .gi { background-color: #1f4a28; border-color: #2a8a3c; }
+  & .highlight .gr { color: #ff7b72; }
+  & .highlight .gh, & .highlight .gu { color: #7ee787; }
+  & .highlight .go { color: #7d8590; }
+  & .highlight .gp { color: #8b93ff; }
+  & .highlight .gt { color: #a5d66b; }
+  & .highlight .m, & .highlight .mf, & .highlight .mh, & .highlight .mi,
+  & .highlight .mo, & .highlight .il { color: #ffa657; }
+  & .highlight .s, & .highlight .sb, & .highlight .sc, & .highlight .sd,
+  & .highlight .s2, & .highlight .se, & .highlight .sh, & .highlight .sx,
+  & .highlight .s1 { color: #f0a08a; }
+  & .highlight .si { color: #ff7b72; }
+  & .highlight .sr { color: #56d4c4; }
+  & .highlight .ss { color: #ffd866; }
+  & .highlight .na { color: #79c0ff; }
+  & .highlight .nb, & .highlight .bp { color: #56d4c4; }
+  & .highlight .nc { color: #4ad0c0; }
+  & .highlight .no { color: #a5d66b; }
+  & .highlight .nd, & .highlight .nl { color: #b3b8ff; }
+  & .highlight .ni { color: #7d8590; }
+  & .highlight .ne { color: #ff7b72; }
+  & .highlight .nf { color: #d2a8ff; }
+  & .highlight .nn { color: #56d4f0; }
+  & .highlight .nt { color: #7ab8e8; }
+  & .highlight .nv, & .highlight .vc, & .highlight .vg, & .highlight .vi { color: #7fd1c1; }
+  & .highlight .w { color: #3a3f47; }
+  & .css .o, & .css .o + .nt, & .css .nt + .nt { color: #7d8590; }
 }
+
+/* Theme toggle */
+.content { position: relative; }
+.theme-toggle {
+  position: absolute;
+  top: 1rem;
+  right: 0;
+  padding: .25rem .6rem;
+  font: inherit;
+  font-size: .75rem;
+  color: #7d848d;
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.theme-toggle:hover { color: #6c73ff; }
+html[data-theme="dark"] .theme-toggle:hover { color: #a9afff; }
