@@ -93,20 +93,21 @@ html[data-theme="dark"] {
   & .css .o, & .css .o + .nt, & .css .nt + .nt { color: #7d8590; }
 }
 
-/* Theme toggle */
-.content { position: relative; }
+/* Theme toggle (sidebar): sun in light theme, moon in dark theme */
 .theme-toggle {
-  position: absolute;
-  top: 1rem;
-  right: 0;
-  padding: .25rem .6rem;
-  font: inherit;
-  font-size: .75rem;
-  color: #7d848d;
+  padding: 0;
+  margin: 0 0 0 .25rem;
+  vertical-align: middle;
+  line-height: 0;
   background: transparent;
-  border: 1px solid currentColor;
-  border-radius: 3px;
+  border: 0;
   cursor: pointer;
+  opacity: .85;
 }
-.theme-toggle:hover { color: #6c73ff; }
-html[data-theme="dark"] .theme-toggle:hover { color: #a9afff; }
+.theme-toggle:hover, .theme-toggle:focus { opacity: 1; }
+.theme-toggle .icon-moon { display: none; }
+html[data-theme="dark"] .theme-toggle .icon-sun { display: none; }
+html[data-theme="dark"] .theme-toggle .icon-moon { display: inline; }
+
+/* Darker sidebar in dark theme (darker than the page, so it stays distinct) */
+html[data-theme="dark"] .sidebar { background-color: #0a0b0d; }
