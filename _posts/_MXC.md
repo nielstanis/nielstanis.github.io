@@ -1,8 +1,8 @@
 ---
 layout: post
-title: MXC: Microsoft's sandbox for code you shouldn't trust (but are going to run anyway)
-categories: [sandbox,NET]
-tags: [sandbox]
+title: MXC
+categories: [.NET, sandbox]
+tags: [sandbox, security]
 ---
 
 Every .NET developer knows this one, even if we don't like to say it out loud. A NuGet package you pull in runs with the same permissions as your process. It gets your files, your network and your environment variables. We've lived with that for twenty years and call it "dependency management".
