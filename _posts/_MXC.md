@@ -1,8 +1,8 @@
 ---
 layout: post
 title: MXC: Microsoft's sandbox for code you shouldn't trust (but are going to run anyway)
-categories: [sandbox,.NET]
-tags: []
+categories: [sandbox,NET]
+tags: [sandbox]
 ---
 
 # 
