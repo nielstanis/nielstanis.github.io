@@ -5,8 +5,6 @@ categories: [sandbox,NET]
 tags: [sandbox]
 ---
 
-# 
-
 Every .NET developer knows this one, even if we don't like to say it out loud. A NuGet package you pull in runs with the same permissions as your process. It gets your files, your network and your environment variables. We've lived with that for twenty years and call it "dependency management".
 
 Then AI agents showed up and we went one step further: we now let model output run commands on our machines. What could go wrong? A lot.
