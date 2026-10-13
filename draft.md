@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MXC - Microsoft's sandbox for code you shouldn't trust, but are going to run anyway...
+title: MXC: Sandboxing untrusted code from .NET
 categories: []
 tags: []
 draft: true
