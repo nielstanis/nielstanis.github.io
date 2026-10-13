@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MXC: Sandboxing untrusted code from .NET
+title: MXC - Sandboxing untrusted code from .NET
 categories: []
 tags: []
 draft: true
