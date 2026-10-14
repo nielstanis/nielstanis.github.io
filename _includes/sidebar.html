@@ -29,8 +29,7 @@
     </nav>
     <style>
       .fennec-social a { display: flex; align-items: center; line-height: 0; }
-      .fennec-social svg, .fennec-social img { display: block; width: 24px; height: 24px; }
-      .fennec-social img { border-radius: 4px; }
+      .fennec-social svg { display: block; width: 24px; height: 24px; }
     </style>
     <p class="fennec-social" style="display:flex;align-items:center;gap:8px;flex-wrap:nowrap;margin:0 0 1rem">
 <a rel="me noopener" target="_blank" href="https://bsky.app/profile/niels.fennec.dev" title="Follow Niels Tanis on Bluesky" class="track">
@@ -49,12 +48,13 @@
 <svg width="24px" fill="#FFFFFF" height="24px" viewBox="-10 -10 800 800" version="1.1" aria-label="Rss" role="img" xmlns="http://www.w3.org/2000/svg">
 <path d="m 107.04167,565.04167 q -45.000003,0 -76.000003,31 -31.00000033,31 -31.00000033,76 0,45 31.00000033,76 31,31 76.000003,31 45,0 76,-31 31,-31 31,-76 0,-45 -31,-76 -31,-31 -76,-31 z m -69.000003,-286 q -15,-1 -26,9 -12.00000033,10 -12.00000033,27 v 75 q 0,14 9.00000003,24 9.0000003,10 23.0000003,11 128.000003,12 219.000003,103 91,91 103,219 1,14 11,23 10,9 24,9 h 75 q 16,0 26,-12 10,-9 10,-24 v -3 q -7,-89 -45,-170 -38,-81 -101,-145 -63,-63 -145,-101 -82,-38 -171.000003,-45 z m -1,-286.0000033 q -15,-1 -26,10 Q 0.04166667,13.041667 0.04166667,29.041667 v 80.000003 q 0,14 10.00000033,25 10,11 23,10 120.000003,7 228.000003,57 108,50 188,129 80,79 129,188 49,109 57,227 1,14 11,24 10,10 24,10 h 80 q 16,0 26,-11 10,-10 10,-25 v -1 q -8,-147 -67,-280 -59,-133 -164,-238 -104,-104 -238,-164.000003 -134,-60.00000033 -280.000003,-67.0000003 z"></path>
 </svg></a>
-<a href="https://librecounter.org/referer/show" target="_blank" rel="noopener" title="Site statistics (LibreCounter)" class="track">
-<img src="https://librecounter.org/counter.svg" referrerpolicy="unsafe-url" alt="LibreCounter" width="24" height="24"/></a>
     </p>
     <img src="/public/MVPBanner.png"/>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
-    <div class="theme-toggle-wrap">
+    <div class="theme-toggle-wrap" style="align-items:center;gap:12px">
+      <a href="https://librecounter.org/referer/show" target="_blank" rel="noopener" title="Site statistics (LibreCounter)" class="track" style="display:flex;line-height:0">
+        <img src="https://librecounter.org/counter.svg" referrerpolicy="unsafe-url" alt="LibreCounter" width="32" height="32" style="display:block;border-radius:6px"/>
+      </a>
       <button type="button" class="theme-toggle" id="theme-toggle" title="Toggle light/dark theme" aria-label="Toggle light/dark theme">
         <span class="theme-knob">
           <svg class="icon-sun" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
